@@ -1,5 +1,5 @@
 {
-    "name": "ahuggins/open-on-make",
+    "name": "blemli/open-on-make",
     "description": "Automatically open files in editor when Artisan make:* is executed",
     "license": "MIT",
     "authors": [
